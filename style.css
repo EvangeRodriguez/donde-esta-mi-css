@@ -1,6 +1,7 @@
 body {
     background-color: black;
 }
+
 .card {
     background-color: plum;
     margin: 20px;
@@ -64,8 +65,8 @@ order: 1px solid ;
     width: 45px ;
     border-radius: 5px;
     border: 2px solid blue;
-    
 }
+
 .line{
     display: flex;
     justify-content: space-between;
@@ -83,7 +84,7 @@ order: 1px solid ;
   }
 .or{
     display: flex;
-    text-align: justify;
+    text-align: center;
     margin: 5px;
     font-weight: bold;
 }
